@@ -30,7 +30,7 @@ const HeroSection = () => {
               Product Lead
               </h3>
               <p className="text-lg text-muted-foreground leading-relaxed max-w-lg">
-              I'm Sanjana WG, an electronics engineer specializing in embedded systems, wearable technology, and real-time firmware development. With hands-on experience in designing custom microcontrollers, therapeutic wearables, and healthcare automation, I blend innovation with precision engineering to build impactful solutions.
+              I am a Product Lead with proven expertise in driving end-to-end product strategy and execution in fast-paced startup environments. I demonstrate exceptional leadership capabilities by managing cross-functional teams and making critical product decisions with limited resources while maintaining focus on measurable business outcomes. My experience spans the complete product lifecycle from vision setting and roadmap planning to stakeholder management and successful product launches. I excel in data-driven decision making, leveraging analytics to optimize user experiences and drive growth metrics in high-uncertainty, rapidly evolving business contexts. I bring entrepreneurial thinking and agile execution skills that enable organizations to build innovative products while scaling efficiently and maintaining competitive advantage.
               </p>
             </div>
 
