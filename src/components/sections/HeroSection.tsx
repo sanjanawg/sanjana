@@ -27,7 +27,7 @@ const HeroSection = () => {
                 SANJANA WG
               </h1>
               <h3 className="text-2xl md:text-3xl text-muted-foreground mb-6">
-                Electronics Engineer
+              Product Lead
               </h3>
               <p className="text-lg text-muted-foreground leading-relaxed max-w-lg">
               I'm Sanjana WG, an electronics engineer specializing in embedded systems, wearable technology, and real-time firmware development. With hands-on experience in designing custom microcontrollers, therapeutic wearables, and healthcare automation, I blend innovation with precision engineering to build impactful solutions.
